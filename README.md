@@ -1,14 +1,14 @@
 
-## Beginner Front End Developer Challenge
+# Beginner Front End Developer Challenge
 
 - The UI design used in this project was downloaded from Frontend Mentor(www.frontendmentor.com)
 - The challenge was also gotten from Frontend Mentor.
 
 #The challenge
-My challenge is to build out this introductory component and get it looking as close to the design as possible.
+ My challenge is to build out this introductory component and get it looking as close to the design as possible.
 
 
-My users should be able to:
+ My users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
