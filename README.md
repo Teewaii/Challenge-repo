@@ -4,7 +4,7 @@
 - The UI design used in this project was downloaded from Frontend Mentor(www.frontendmentor.com)
 - The challenge was also gotten from Frontend Mentor.
 
-#The challenge
+# The challenge
  My challenge is to build out this introductory component and get it looking as close to the design as possible.
 
 
